@@ -152,23 +152,6 @@
     \end{columns}
 \end{frame}
 
-\begin{frame}{Indicateurs techniques}
-  \begin{columns}
-    \column{0.5\textwidth}
-    \begin{itemize}
-      \item Moyennes Mobiles Simples (SMA)
-      \item Relative Strength Index (RSI)
-      \item MACD (Moving Average Convergence Divergence)
-      \item Bandes de Bollinger
-      \item Average True Range (ATR)
-      \item Oscillateur Stochastique
-    \end{itemize}
-    
-    \column{0.5\textwidth}
-   
-    \end{columns}
-\end{frame}
-
 \begin{frame}{Analyse des actualités avec VADER}
   \begin{itemize}
     \item VADER: Valence Aware Dictionary and sEntiment Reasoner
@@ -197,6 +180,25 @@
     \end{tabular}
   \end{center}
 \end{frame}
+
+\begin{frame}{Indicateurs techniques}
+  \begin{columns}
+    \column{0.5\textwidth}
+    \begin{itemize}
+      \item Moyennes Mobiles Simples (SMA)
+      \item Relative Strength Index (RSI)
+      \item MACD (Moving Average Convergence Divergence)
+      \item Bandes de Bollinger
+      \item Average True Range (ATR)
+      \item Oscillateur Stochastique
+    \end{itemize}
+    
+    \column{0.5\textwidth}
+   
+    \end{columns}
+\end{frame}
+
+
 
 \begin{frame}{Algorithme de génération des signaux}
   \textbf{Cœur de notre application}:
@@ -370,3 +372,6 @@
 \end{frame}
 
 \end{document}
+
+
+
