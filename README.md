@@ -1,5 +1,7 @@
 Stratégie de Trading Multi-Facteurs avec Visualisation Interactive
+
 Pourquoi ce projet ?
+
 Les marchés financiers sont influencés par :
 
 📈 des indicateurs techniques (prix, tendances)
