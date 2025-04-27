@@ -259,37 +259,7 @@
   \end{itemize}
 \end{frame}
 
-\begin{frame}{Gestion des risques et backtest}
-  \begin{columns}
-    \column{0.5\textwidth}
-    \begin{itemize}
-      \item \textbf{Taille de position optimale}
-      \begin{itemize}
-        \item Basée sur l'ATR (volatilité)
-        \item Adaptée au capital et à la tolérance au risque
-      \end{itemize}
-      
-      \item \textbf{Stop loss automatique}
-      \begin{itemize}
-        \item Calculé à partir de l'ATR (2 × ATR)
-        \item Adapté à la volatilité de chaque actif
-      \end{itemize}
-    \end{itemize}
-    
-    \column{0.5\textwidth}
-    \begin{itemize}
-      \item \textbf{Backtest}
-      \begin{itemize}
-        \item Évaluation historique de la stratégie
-        \item Comparaison avec Buy \& Hold
-        \item Optimisation des paramètres
-        \item Mesure du drawdown, de l'alpha...
-      \end{itemize}
-    \end{itemize}
-    
 
-  \end{columns}
-\end{frame}
 
 \begin{frame}{Notre application}
   \begin{center}
