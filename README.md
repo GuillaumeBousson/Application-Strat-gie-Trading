@@ -5,8 +5,11 @@ Pourquoi ce projet ?
 Les marchés financiers sont influencés par :
 
 📈 des indicateurs techniques (prix, tendances)
+
 📰 des événements d'actualité (décisions politiques, annonces d'entreprises)
+
 📊 des données fondamentales (santé financière des entreprises)
+
 Notre objectif est de construire une application complète d'aide à la décision pour détecter les bons moments pour acheter ou vendre à découvert une action.
 
 Ce que notre programme fait
